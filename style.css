@@ -1,0 +1,152 @@
+@media screen and (max-width: 620px) {
+   
+
+    .header{
+        display: flex;
+        justify-content: space-between;
+    }
+    .cour{
+        margin-left: 200px;
+    }
+    
+    .wareg{
+        background-color: aliceblue;
+        border: 0;
+        border-radius: 20px;
+        text-align: center;
+        padding-bottom: 10px;
+       width: 100px;
+       height: 40px;
+    
+    }
+    
+    .btn{
+        background-color: aliceblue;
+        border: 0;
+        border-radius: 20px;
+        text-align: center;
+        padding-bottom: 10px;
+       width: 200px;
+       height: 40px;
+       font-size: 30px;
+      color: rgb(48, 19, 19);
+       margin-left: 180px;
+    }
+
+    .welcom{
+        margin-left: 150px;
+        padding-top: 30px;
+        color: aquamarine;
+    }
+   
+    .courses{
+        box-shadow: 0px 0px 46px rgba(0, 0, 0, 0.1);
+        margin-top: 20px;
+        /* margin-right: 300px; */
+        margin-left: 120px;
+        margin-right: 160px;
+    }
+    
+    
+}
+
+@media screen and (min-width: 1200px) {
+
+    .welcom{
+        margin-left: 550px;
+        padding-top: 50px;
+    }
+    .header{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .wareg{
+        background-color: aliceblue;
+        border: 0;
+        border-radius: 20px;
+        text-align: center;
+        padding-bottom: 10px;
+       width: 100px;
+       height: 40px;
+    
+    }
+    .btn{
+        background-color: aliceblue;
+        border: 0;
+        border-radius: 20px;
+        text-align: center;
+        padding-bottom: 10px;
+       width: 200px;
+       height: 40px;
+       font-size: 20px;
+       padding-top: 10px;
+      
+      color: rgb(48, 19, 19);
+       margin-left: 600px;
+    }
+    .cour{
+       
+       margin-left: 300px;
+
+    }
+    img{
+        width: 300px;
+    }
+    .ss{
+        box-shadow: 0px 0px 46px rgba(0, 0, 0, 0.1);
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+
+@media screen and (min-width: 960px) {
+
+    .welcom{
+        margin-left: 550px;
+        padding-top: 50px;
+    }
+    .header{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .wareg{
+        background-color: aliceblue;
+        border: 0;
+        border-radius: 20px;
+        text-align: center;
+        padding-bottom: 10px;
+       width: 100px;
+       height: 40px;
+    
+    }
+    .btn{
+        background-color: aliceblue;
+        border: 0;
+        border-radius: 20px;
+        text-align: center;
+        padding-bottom: 10px;
+       width: 200px;
+       height: 40px;
+       font-size: 20px;
+       padding-top: 10px;
+      
+      color: rgb(48, 19, 19);
+       margin-left: 600px;
+    }
+    .cour{
+       
+       padding-left: 400px;
+    }
+    img{
+        width: 300px;
+    }
+    .ss{
+        box-shadow: 0px 0px 46px rgba(0, 0, 0, 0.1);
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+}
